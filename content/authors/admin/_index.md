@@ -17,34 +17,35 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Master student in Human-Machine and Environment Engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Beihang University
+    url: https://ev.buaa.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Scientific Machine Learning, Physics-informed Neural Networks, Data-driven Surrogate Modeling, Rarefied Gas Dynamics.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Scientific Machine Learning
+  - Data-driven Surrogate Modeling
+  - Physics-informed Neural Networks
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: M.S. in Human-Machine and Environment Engineering
+      institution: Beihang University
+      year: 2022
+    - course: Exchange Student in Mathematical Engineering
+      institution: Politecnico di Milano
+      year: 2022
+    - course: B.E. in Mechanics Engineering
+      institution: Beihang University
+      year: 2018
+
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
