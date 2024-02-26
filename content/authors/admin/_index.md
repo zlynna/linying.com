@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: 张林颖
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Linying Zhang
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Linying
+last_name: Zhang
 
 # Status emoji
 status:
