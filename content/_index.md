@@ -26,7 +26,7 @@ sections:
         - title: Research Intern
           company: MOX
           company_url:
-          company_logo: logo_simtech
+          company_logo: 
           location: Politecnico di Milano, Italy
           date_start: '2023-09-01'
           date_end: '2024-03-01'
@@ -84,7 +84,7 @@ sections:
         - name: PINN-DVM (Physica-informed Neural Networks combined with Discrete Velocity Method)
           tag: PINN-DVM
         - name: Other
-          tag: Demo
+          tag: 
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
