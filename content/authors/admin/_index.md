@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 张林颖
+title: Linying Zhang
 
 # Name pronunciation (optional)
-name_pronunciation: Linying Zhang
+# name_pronunciation: Linying Zhang
 
 # Full name (for SEO)
 first_name: Linying
@@ -11,7 +11,7 @@ last_name: Zhang
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
@@ -32,60 +32,20 @@ interests:
   - Scientific Machine Learning
   - Data-driven Surrogate Modeling
   - Physics-informed Neural Networks
+  - Rarefied Gas Dynamics
 
 # Education to show in About widget
 education:
   courses:
-    - course: M.S. in Human-Machine and Environment Engineering
+    - course: M.S. in Human-Machine and Environment Engineering (in progress)
       institution: Beihang University
-      year: 2022
+      year: 
     - course: Exchange Student in Mathematical Engineering
       institution: Politecnico di Milano
-      year: 2022
+      year: 2023
     - course: B.E. in Mechanics Engineering
       institution: Beihang University
-      year: 2018
-
-
-# Skills
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-skills:
-  - name: Technical
-    items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: python
-        icon_pack: fab
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-line
-        icon_pack: fas
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: database
-        icon_pack: fas
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-hiking
-        icon_pack: fas
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-        icon_pack: fas
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera-retro
-        icon_pack: fas
+      year: 2022
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -94,22 +54,22 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
+    link: 'mailto:lyzhangnna@gmail.com'
+  # - icon: twitter
+    # icon_pack: fab
+    # link: https://twitter.com/GeorgeCushen
+    # label: Follow me on Twitter
+    # display:
+    #   header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com.hk/citations?user=UDoLoFoAAAAJ&hl=zh-CN
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/zlynna
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/%E6%9E%97%E9%A2%96-%E5%BC%A0-5a63b52a7/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -117,9 +77,10 @@ social:
     icon_pack: ai
     link: uploads/resume.pdf
 
+email: 'lyzhangnna@gmail.com'
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a master student in Human-Machine and Environment Engineering at Beihang University in Beijing. 
 {style="text-align: justify;"}
