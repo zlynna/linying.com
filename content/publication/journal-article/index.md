@@ -1,16 +1,16 @@
 ---
-title: "An example journal article"
+title: "Simulation of rarefied gas flows using physics-informed neural network combined with discrete velocity method"
 authors:
 - admin
-- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: ""
+- Wenjun Ma
+- Qin Lou
+- Jun Zhang
+
+date: "2023-07-24T00:00:00Z"
+doi: "https://doi.org/10.1063/5.0156404"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2023-07-24T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -18,13 +18,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
-publication_short: ""
+publication: "*Physics of Fluids*"
+publication_short: "PoF"
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: The linearized Bhatnagar–Gross–Krook equation is widely used to describe low-speed rarefied gas flows and can be solved numerically using deterministic methods such as the discrete velocity method (DVM). With the help of physics-informed neural networks (PINNs), which have experienced rapid development in recent years, we develop a new surrogate model that combines the PINNs and DVM methods (PINN–DVM) to simulate rarefied gas flows. In the proposed PINN–DVM model, the linearized Bhatnagar–Gross–Krook equation is directly encoded into the residual of an artificial neural network. A new loss function for the boundary condition based on the impermeable diffusion model is proposed to accurately capture the velocity slip and temperature jump at the boundary. PINN–DVM overcomes the limitations of conventional numerical methods, such as complex mesh generation and derivative calculations. Furthermore, the proposed model is enhanced by a self-adaptive strategy based on the neural tangent kernel, which enables the loss weight for each component of the loss function to be adjusted adaptively. Four representative numerical cases of Couette flow, Fourier heat transfer flow, triangular duct flow, and cavity flow demonstrate the superiority of the proposed PINN–DVM model in solving rarefied gas flows compared with original PINNs.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
 - Source Themes
@@ -33,8 +33,8 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_pdf: https://www.researchgate.net/profile/Wenjun-Ma-7/publication/372609968_Simulation_of_rarefied_gas_flows_using_physics-informed_neural_network_combined_with_discrete_velocity_method/links/6554c87a3fa26f66f40447a6/Simulation-of-rarefied-gas-flows-using-physics-informed-neural-network-combined-with-discrete-velocity-method.pdf
+url_code: 'https://github.com/zlynna/PINN-DVM'
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -45,7 +45,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: 
   focal_point: ""
   preview_only: false
 

@@ -26,7 +26,7 @@ sections:
         - title: Research Intern
           company: MOX
           company_url:
-          company_logo: 
+          company_logo: logo_mox_polimi
           location: Politecnico di Milano, Italy
           date_start: '2023-09-01'
           date_end: '2024-03-01'
@@ -35,7 +35,7 @@ sections:
         - title: Open Source Promotion Plan (OSPP 2023)
           company: Baidu
           company_url: 'https://ir.baidu.com/'
-          company_logo: 
+          company_logo: ospp
           location: Baidu, Beijing
           date_start: '2023-07-01'
           date_end: '2023-09-01'
