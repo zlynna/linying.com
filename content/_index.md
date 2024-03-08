@@ -81,7 +81,7 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: PINN-DVM (Physica-informed Neural Networks combined with Discrete Velocity Method)
+        - name: Deep Learning
           tag: PINN-DVM
         - name: Other
           tag: 
