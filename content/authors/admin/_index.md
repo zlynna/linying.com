@@ -82,5 +82,5 @@ email: 'lyzhangnna@gmail.com'
 highlight_name: true
 ---
 
-I am a master student in Human-Machine and Environment Engineering at Beihang University in Beijing. 
+Welcome! I'm a graduate student in Human-Machine and Environmental Engineering at Beihang University. My research focuses on scientific machine learning and rarefied gas dynamics. I have a keen interest in developing model algorithms to tackle physics problems. As someone who enjoys pondering over questions and seeking solutions, I continuously explore the intersection of science and technology. Feel free to explore my personal website to learn more about my research and areas of interest.
 {style="text-align: justify;"}
